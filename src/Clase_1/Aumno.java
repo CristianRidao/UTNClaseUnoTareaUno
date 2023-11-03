@@ -8,6 +8,6 @@ package Entidades;
  *
  * @author crist
  */
-public class Persona {
+public class Aumno {
     
 }
