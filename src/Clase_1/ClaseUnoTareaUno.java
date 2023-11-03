@@ -15,6 +15,15 @@ public class ClaseUnoTareaUno {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Materia matematica1 = new Materia("Matematica1", 6);
+        Materia matematica2 = new Materia();
+        Materia matematica3 = new Materia();
+        
+        Alumno alumnoPrueba = new Alumno();
+        
+        
+        
     }
     
 }
